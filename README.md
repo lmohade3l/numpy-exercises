@@ -1,2 +1,2 @@
-# python-numpy-exercises
-every day python and numpy programming exercises based on questions on geeksforgeeks.org
+numpy-exercises
+every day numpy programming exercises based on questions on geeksforgeeks.org
